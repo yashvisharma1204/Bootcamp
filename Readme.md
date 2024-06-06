@@ -1,5 +1,5 @@
 # First Year Data Science Bootcamp
-![](https://www.inteliment.com/wp-content/uploads/2021/05/37-The-Techniques-Team-and-Tools-for-Effective-Data-Science.jpg)
+![](https://www.inteliment.com/wp-content/uploads/2021/05/37-The-Techniques-Team-and-Tools-for-Effective-Data-Science.jpg)<br>
 **This repository is created to showcase the daily revision and learning I have done from Data Science Bootcamp.**
 <br>
 Here are some files day wise:
