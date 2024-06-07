@@ -8,3 +8,4 @@
     - [Questions](06-06-2024/Questions.py)
 - 07-07-2024:
     - [Python OOPs](07-07-2024/Python_OOPs.py)
+    - [Git Commands](07-07-2024/git_github.md)
