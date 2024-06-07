@@ -2,12 +2,10 @@
 # Object-Oriented Programming (OOP) is a programming paradigm based on the concept of objects.
 # Objects are instances of classes, which can contain data (attributes) and functions (methods) to manipulate that data.
 # OOP aims to model real-world entities and solve problems by creating objects that interact with each other.
-
-# 2. General OOP vs Python OOP
 # While the core concepts of OOP (such as encapsulation, inheritance, and polymorphism) remain consistent across programming languages,
 # the implementation varies. Python, being an object-oriented language, offers unique syntax and features for defining and manipulating classes and objects.
 
-# 3. Class and Object
+# 2. Class and Object
 # A class is a blueprint for creating objects. It defines a set of attributes and methods that the objects created from the class will have.
 # An object is an instance of a class, representing a specific entity with its own unique set of attribute values.
 
@@ -16,10 +14,11 @@ class MyClass:
 
 obj = MyClass()  # Creating an instance (object) of the MyClass class
 
-# 4. Data Members in Class
+# 3. Data Members in Class
 
 # A. Instance Variables
-# Instance variables are attributes specific to each instance (object) of a class. They store data related to that particular instance.
+# Instance variables are attributes specific to each instance (object) of a class. 
+#They store data related to that particular instance.
 
 class MyClass:
     def increment(self):
@@ -33,7 +32,8 @@ print(obj.increment())  # Output: 1
 print(obj.increment())  # Output: 2
 
 # B. Class Variables
-# Class variables are shared among all instances of a class. They are defined within the class but outside any instance methods.
+# Class variables are shared among all instances of a class. 
+#They are defined within the class but outside any instance methods.
 
 class MyClass:
     class_var = 0  # Defining a class variable
@@ -50,7 +50,7 @@ print(MyClass.class_var)  # Output: 1
 obj2.increment()
 print(MyClass.class_var)  # Output: 2
 
-# 5. Methods in Class
+# 4. Methods in Class
 
 # A. Normal Methods
 # Normal methods, also known as instance methods, have access to instance data through the self parameter.
@@ -101,10 +101,11 @@ class MathUtils:
 print(MathUtils.is_even(4))  # Output: True
 print(MathUtils.is_prime(7))  # Output: True
 
-# 6. Special Methods
+# 5. Special Methods
 
 # A. __init__ Method
 # The __init__ method initializes an object's attributes when an instance is created.
+# It is also called as constructor
 
 class Person:
     def __init__(self, name, age):
@@ -149,7 +150,7 @@ person1 = Person("Alice", 25)
 print(person1)  # Output: Creating a new instance of Person
                 #         Alice (25)
 
-# 7. Constructor and Destructor
+# 6. Constructor and Destructor
 
 # A. Constructor
 # The constructor is a special method automatically called when an instance of the class is created.
@@ -203,7 +204,7 @@ print(obj1.data)  # Output: 0
 obj2 = MyClass(20)
 print(obj2.data)  # Output: 20
 
-# 8. Methods with Arguments
+# 7. Methods with Arguments
 
 # A. Methods with Multiple Arguments
 # Methods can take multiple arguments besides self.
@@ -257,7 +258,7 @@ obj = MyClass()
 obj.my_method(10)  # Output: arg1: 10, arg2: 0
 obj.my_method(10, 20)  # Output: arg1: 10, arg2: 20
 
-# 9. Data Encapsulation
+# 8. Data Encapsulation
 # Encapsulation bundles data and methods within a single unit, hiding internal details from the outside world.
 
 class MyClass:
@@ -276,7 +277,7 @@ print(obj.get_private_var())  # Output: 0
 obj.set_private_var(10)
 print(obj.get_private_var())  # Output: 10
 
-# 10. Data Abstraction
+# 9. Data Abstraction
 # Abstraction exposes only the essential features of an object while hiding the unnecessary details.
 
 class Employee:
@@ -290,7 +291,7 @@ class Employee:
 emp = Employee("Alice", 50000)
 print(emp.get_salary())  # Output: 50000
 
-# 11. Inheritance
+# 10. Inheritance
 
 # A. Single Inheritance
 # Single inheritance allows a class to inherit from a single parent class.
@@ -368,7 +369,7 @@ cat = Cat()
 cat.speak()  # Output: Animal speaks
 cat.meow()   # Output: Cat meows
 
-# 12. Polymorphism
+# 11. Polymorphism
 
 # A. Operator Overloading
 # Operator overloading allows customizing the behavior of operators for user-defined classes.
@@ -406,7 +407,7 @@ dog = Dog()
 animal.speak()  # Output: Animal speaks
 dog.speak()     # Output: Dog barks
 
-# 13. Abstract Classes and Interfaces
+# 12. Abstract Classes and Interfaces
 
 # A. Abstract Classes
 # Abstract classes cannot be instantiated and are designed to be subclassed.
@@ -430,7 +431,7 @@ dog.speak()  # Output: Dog barks
 # Python does not have explicit support for interfaces like some other languages.
 # Instead, abstract base classes (ABCs) are used to achieve similar functionality.
 
-# 14. Example Class
+# 13. Example Class
 
 class Car:
     def __init__(self, make, model, year):
@@ -461,3 +462,71 @@ my_car.update_odometer(23)
 my_car.read_odometer()  # Output: This car has 23 miles on it.
 my_car.increment_odometer(100)
 my_car.read_odometer()  # Output: This car has 123 miles on it.
+
+# 15. Decorators
+
+# Decorators are a powerful tool in Python that allows modification of functions or methods using other functions.
+# They are often used to add functionality to an existing code in a clean, readable, and reusable way.
+
+# A. Function Decorators
+# Here's an example of a simple function decorator:
+
+def my_decorator(func):
+    def wrapper(*args, **kwargs):
+        print("Something is happening before the function is called.")
+        result = func(*args, **kwargs)
+        print("Something is happening after the function is called.")
+        return result
+    return wrapper
+
+@my_decorator
+def say_hello(name):
+    print(f"Hello, {name}!")
+
+say_hello("Alice")
+# Output:
+# Something is happening before the function is called.
+# Hello, Alice!
+# Something is happening after the function is called.
+
+# B. Method Decorators
+# You can also apply decorators to methods within classes.
+
+class MyClass:
+    @my_decorator
+    def say_hello(self, name):
+        print(f"Hello, {name}!")
+
+obj = MyClass()
+obj.say_hello("Alice")
+# Output:
+# Something is happening before the function is called.
+# Hello, Alice!
+# Something is happening after the function is called.
+
+# C. Custom Decorator: @yield
+# While Python doesn't have a built-in @yield decorator, we can create a custom one that demonstrates similar functionality.
+# This example shows how you might use a generator-based decorator to yield values.
+
+def yield_decorator(func):
+    def wrapper(*args, **kwargs):
+        print("Starting generator")
+        gen = func(*args, **kwargs)
+        yield from gen
+        print("Generator finished")
+    return wrapper
+
+@yield_decorator
+def count_to_three():
+    yield 1
+    yield 2
+    yield 3
+
+for num in count_to_three():
+    print(num)
+# Output:
+# Starting generator
+# 1
+# 2
+# 3
+# Generator finished
