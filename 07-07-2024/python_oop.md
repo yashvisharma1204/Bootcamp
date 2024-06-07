@@ -1,7 +1,9 @@
 # Introduction to Object-Oriented Programming (OOP) in Python
 
 ## 1. Introduction
-Object-Oriented Programming (OOP) is a programming paradigm based on the concept of objects. Objects are instances of classes, which can contain data (attributes) and functions (methods) to manipulate that data. OOP aims to model real-world entities and solve problems by creating objects that interact with each other. While the core concepts of OOP (such as encapsulation, inheritance, and polymorphism) remain consistent across programming languages, the implementation varies. Python, being an object-oriented language, offers unique syntax and features for defining and manipulating classes and objects.
+- Object-Oriented Programming (OOP) is a programming paradigm based on the concept of objects. Objects are instances of classes, which can contain data (attributes) and functions (methods) to manipulate that data.
+- OOP aims to model real-world entities and solve problems by creating objects that interact with each other. While the core concepts of OOP (such as encapsulation, inheritance, and polymorphism) remain consistent across programming languages, the implementation varies.
+- Python, being an object-oriented language, offers unique syntax and features for defining and manipulating classes and objects.
 
 ## 2. Class and Object
 A class is a blueprint for creating objects. It defines a set of attributes and methods that the objects created from the class will have. An object is an instance of a class, representing a specific entity with its own unique set of attribute values.
@@ -188,28 +190,28 @@ del obj  # Output: Destructor called
 ```
 
 ### C. Constructor without Arguments
-# A class can have a constructor without any arguments to initialize attributes.
-
+A class can have a constructor without any arguments to initialize attributes.
+```python
 class MyClass:
     def __init__(self):
         self.data = 0
 
 obj = MyClass()
 print(obj.data)  # Output: 0
-
+```
 ### D. Constructor with Arguments
-# Constructors can take arguments to initialize object attributes.
-
+Constructors can take arguments to initialize object attributes.
+```python
 class MyClass:
     def __init__(self, value):
         self.data = value
 
 obj = MyClass(10)
 print(obj.data)  # Output: 10
-
+```
 ### E. Constructor with Default Arguments
-# Constructors can have default arguments.
-
+Constructors can have default arguments.
+```python
 class MyClass:
     def __init__(self, value=0):
         self.data = value
@@ -219,11 +221,12 @@ print(obj1.data)  # Output: 0
 
 obj2 = MyClass(20)
 print(obj2.data)  # Output: 20
-
+```
 ## 7. Methods with Arguments
 
 ### A. Methods with Multiple Arguments
-# Methods can take multiple arguments besides self.
+Methods can take multiple arguments besides self.
+```python
 
 class MyClass:
     def my_method(self, arg1, arg2):
@@ -231,10 +234,10 @@ class MyClass:
 
 obj = MyClass()
 obj.my_method(10, 20)  # Output: Arguments: 10, 20
-
+```
 ### B. Passing Objects as Arguments
-# You can pass objects as arguments to methods.
-
+Methods can take multiple arguments besides self.
+```python
 class MyClass:
     def __init__(self, value):
         self.data = value
@@ -247,10 +250,10 @@ obj2 = MyClass(20)
 
 obj1.update(obj2)
 print(obj1.data)  # Output: 30
-
+```
 ### C. Returning Objects from Methods
-# Methods can return objects.
-
+Methods can return objects.
+```python
 class MyClass:
     def __init__(self, value):
         self.data = value
@@ -262,10 +265,10 @@ class MyClass:
 obj = MyClass(10)
 obj = obj.increment()
 print(obj.data)  # Output: 11
-
+```
 ### D. Method Overloading
-# Method overloading allows a class to have multiple methods with the same name but different parameters.
-
+Method overloading allows a class to have multiple methods with the same name but different parameters.
+```python
 class MyClass:
     def my_method(self, arg1, arg2=0):
         print(f"arg1: {arg1}, arg2: {arg2}")
@@ -273,10 +276,10 @@ class MyClass:
 obj = MyClass()
 obj.my_method(10)  # Output: arg1: 10, arg2: 0
 obj.my_method(10, 20)  # Output: arg1: 10, arg2: 20
-
+```
 ## 8. Data Encapsulation
-# Encapsulation bundles data and methods within a single unit, hiding internal details from the outside world.
-
+Encapsulation bundles data and methods within a single unit, hiding internal details from the outside world.
+```python
 class MyClass:
     def __init__(self):
         self.__private_var = 0  # Private instance variable
@@ -292,10 +295,10 @@ print(obj.get_private_var())  # Output: 0
 
 obj.set_private_var(10)
 print(obj.get_private_var())  # Output: 10
-
+```
 ## 9. Data Abstraction
-# Abstraction exposes only the essential features of an object while hiding the unnecessary details.
-
+Abstraction exposes only the essential features of an object while hiding the unnecessary details.
+```python
 class Employee:
     def __init__(self, name, salary):
         self.name = name
@@ -306,12 +309,11 @@ class Employee:
 
 emp = Employee("Alice", 50000)
 print(emp.get_salary())  # Output: 50000
-
+```
 ## 10. Inheritance
-
 ### A. Single Inheritance
-# Single inheritance allows a class to inherit from a single parent class.
-
+Single inheritance allows a class to inherit from a single parent class.
+```python
 class Animal:
     def speak(self):
         print("Animal speaks")
@@ -323,10 +325,10 @@ class Dog(Animal):
 dog = Dog()
 dog.speak()  # Output: Animal speaks
 dog.bark()   # Output: Dog barks
-
+```
 ### B. Multiple Inheritance
-# Multiple inheritance allows a class to inherit from multiple parent classes.
-
+Multiple inheritance allows a class to inherit from multiple parent classes.
+```python
 class A:
     def method_A(self):
         print("Method A")
@@ -341,10 +343,10 @@ class C(A, B):
 c = C()
 c.method_A()  # Output: Method A
 c.method_B()  # Output: Method B
-
+```
 ### C. Multilevel Inheritance
-# Multilevel inheritance involves a class inheriting from another class that is also a derived class.
-
+Multilevel inheritance involves a class inheriting from another class that is also a derived class.
+```python
 class Animal:
     def speak(self):
         print("Animal speaks")
@@ -361,10 +363,10 @@ dog = Dog()
 dog.speak()  # Output: Animal speaks
 dog.run()    # Output: Mammal runs
 dog.bark()   # Output: Dog barks
-
+```
 ### D. Hierarchical Inheritance
-# Hierarchical inheritance involves multiple derived classes inheriting from a single base class.
-
+Hierarchical inheritance involves multiple derived classes inheriting from a single base class.
+```python
 class Animal:
     def speak(self):
         print("Animal speaks")
@@ -384,12 +386,12 @@ dog.bark()   # Output: Dog barks
 cat = Cat()
 cat.speak()  # Output: Animal speaks
 cat.meow()   # Output: Cat meows
-
+```
 ## 11. Polymorphism
 
 ### A. Operator Overloading
-# Operator overloading allows customizing the behavior of operators for user-defined classes.
-
+Operator overloading allows customizing the behavior of operators for user-defined classes.
+```python
 class Vector:
     def __init__(self, x, y):
         self.x = x
@@ -405,10 +407,10 @@ v1 = Vector(2, 3)
 v2 = Vector(4, 5)
 v3 = v1 + v2
 print(v3)  # Output: (6, 8)
-
+```
 ### B. Method Overriding
-# Method overriding allows a derived class to provide a specific implementation of a method already defined in its base class.
-
+Method overriding allows a derived class to provide a specific implementation of a method already defined in its base class.
+```python
 class Animal:
     def speak(self):
         print("Animal speaks")
@@ -422,12 +424,11 @@ dog = Dog()
 
 animal.speak()  # Output: Animal speaks
 dog.speak()     # Output: Dog barks
-
+```
 ## 12. Abstract Classes and Interfaces
-
 ### A. Abstract Classes
-# Abstract classes cannot be instantiated and are designed to be subclassed. They can contain abstract methods that must be implemented by subclasses.
-
+Abstract classes cannot be instantiated and are designed to be subclassed. They can contain abstract methods that must be implemented by subclasses.
+```python
 from abc import ABC, abstractmethod
 
 class Animal(ABC):
@@ -441,9 +442,9 @@ class Dog(Animal):
 
 dog = Dog()
 dog.speak()  # Output: Dog barks
-
+```
 ### B. Interfaces
-# Python does not have explicit support for interfaces like some other languages. Instead, abstract base classes (ABCs) are used to achieve similar functionality.
+Python does not have explicit support for interfaces like some other languages. Instead, abstract base classes (ABCs) are used to achieve similar functionality.
 
 ## 13. Example Class
 ```python
