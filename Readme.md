@@ -3,8 +3,8 @@
 <br><hr>
 ## 💻 Daily Practice:
 - 06-06-2024:
-    - [Python basics](06-06-2024/Python_basics.py)
-    - [Python Functions](06-06-2024/Python_functions.py)
+    - [Python basics](06-06-2024/Python_basics.md)
+    - [Python Functions](06-06-2024/Python_functions.md)
     - [Questions](06-06-2024/Questions.py)
 - 07-07-2024:
     - [Python OOPs](07-07-2024/Python_OOPs.py)
