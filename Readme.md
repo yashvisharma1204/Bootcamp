@@ -7,5 +7,8 @@
     - [Python Functions](06-06-2024/Python_functions.md)
     - [Questions](06-06-2024/Questions.py)
 - 07-07-2024:
-    - [Python OOPs](07-07-2024/Python_OOPs.py)
+    - [Python OOPs and Inheritance](07-06-2024/Python_OOPs.md)
     - [Git Commands](07-07-2024/git_github.md)
+- 08-06-2024:
+    - [Python exceptions handling](08-06-2024/exception_handling.md)
+    - [Questions](08-06-2024/questions.py)
