@@ -22,5 +22,12 @@ What's on the plate for today:
 - **[Python Exceptions Handling](08-06-2024/exception_handling.md)**: 🚨 Explore how to gracefully handle exceptions in Python code.
 - **[Questions](08-06-2024/questions.py)**: 💪 Engage in problem-solving sessions to tackle real-world scenarios.
 
----
+### 10-06-2024:
+Today's work:
+- **[Python List](09-06-2024/List.md)**: 📝 Exploring the versatility of Python lists and understanding their importance in data manipulation and storage.
+  - ***[Questions](09-06-2024/list_questions.py)***: 📋 Practice exercises focused on Python lists to reinforce learning and enhance problem-solving skills.
+- **[Python Dictionaries](09-06-2024/Dictionary.md)**: 📊 Delving into the concept of Python dictionaries and how they facilitate efficient data organization and retrieval.
+  - ***[Questions](09-06-2024/dict_questions.py)***: 📚 Solving challenges related to Python dictionaries to deepen understanding and sharpen coding abilities.
+
+--- 
 Crafted with passion for the tech-savvy and knowledge-hungry learners! 🧠📚 
