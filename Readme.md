@@ -28,6 +28,6 @@ Today's work:
   - ***[Questions](09-06-2024/list_questions.py)***: 📋 Practice exercises focused on Python lists to reinforce learning and enhance problem-solving skills.
 - **[Python Dictionaries](09-06-2024/Dictionary.md)**: 📊 Delving into the concept of Python dictionaries and how they facilitate efficient data organization and retrieval.
   - ***[Questions](09-06-2024/dict_questions.py)***: 📚 Solving challenges related to Python dictionaries to deepen understanding and sharpen coding abilities.
-
+- **[Python Set](09-06-2024/Sets.md)**: 🛠️ Exploring the capabilities of Python sets for efficient data handling and mathematical operations on unique collections.
 --- 
 Crafted with passion for the tech-savvy and knowledge-hungry learners! 🧠📚 
