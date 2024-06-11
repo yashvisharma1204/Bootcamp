@@ -24,12 +24,18 @@ What's on the plate for today:
 
 ### 10-06-2024:
 Today's work:
-- **[Python List](09-06-2024/List.md)**: 📝 Exploring the versatility of Python lists and understanding their importance in data manipulation and storage.
-  - ***[Questions](09-06-2024/list_questions.py)***: 📋 Practice exercises focused on Python lists to reinforce learning and enhance problem-solving skills.
-- **[Python Dictionaries](09-06-2024/Dictionary.md)**: 📊 Delving into the concept of Python dictionaries and how they facilitate efficient data organization and retrieval.
-  - ***[Questions](09-06-2024/dict_questions.py)***: 📚 Solving challenges related to Python dictionaries to deepen understanding and sharpen coding abilities.
-- **[Python Set](09-06-2024/Sets.md)**: 🛠️ Exploring the capabilities of Python sets for efficient data handling and mathematical operations on unique collections.
-- **[Python Tuple](09-06-2024/Tuples.md)**: 🎯 Discovering the potential of Python tuples for efficient data handling and operations on immutable collections.
+- **[Python List](10-06-2024/List.md)**: 📝 Exploring the versatility of Python lists and understanding their importance in data manipulation and storage.
+  - ***[Questions](10-06-2024/list_questions.py)***: 📋 Practice exercises focused on Python lists to reinforce learning and enhance problem-solving skills.
+- **[Python Dictionaries](10-06-2024/Dictionary.md)**: 📊 Delving into the concept of Python dictionaries and how they facilitate efficient data organization and retrieval.
+  - ***[Questions](10-06-2024/dict_questions.py)***: 📚 Solving challenges related to Python dictionaries to deepen understanding and sharpen coding abilities.
+- **[Python Set](10-06-2024/Sets.md)**: 🛠️ Exploring the capabilities of Python sets for efficient data handling and mathematical operations on unique collections.
+- **[Python Tuple](10-06-2024/Tuples.md)**: 🎯 Discovering the potential of Python tuples for efficient data handling and operations on immutable collections.
   
+### 11=06-2024:
+Today's work:
+- **[Tkinter Introduction](11-06-2024/Introduction.md)**:
+  - ***[Tkinter Introduction](11-06-2024/basics.py):***
+- **[Buttons](11-06-2024/button.md)**:
+  - ***[Tkinter Introduction](11-06-2024/button.py):***
 --- 
 Crafted with passion for the tech-savvy and knowledge-hungry learners! 🧠📚 
