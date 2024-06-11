@@ -97,5 +97,6 @@ root.mainloop()
 
 ### Conclusion
 Creating a basic Tkinter window involves initializing the Tkinter application, adding widgets, and running the main event loop. With Tkinter, you can build interactive and visually appealing GUI applications in Python.
+<br>
 <img width="149" alt="image" src="https://github.com/yashvisharma1204/Bootcamp/assets/137611141/fe3df0c3-dac4-4b7f-80aa-a5b501b49b61">
 <img width="145" alt="image" src="https://github.com/yashvisharma1204/Bootcamp/assets/137611141/f1f403c5-ff67-4785-8d7a-a5b391159b6e">
