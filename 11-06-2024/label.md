@@ -36,4 +36,5 @@ l = Label(master, option=value, ...)
 - **anchor**: Position of the text/image within the label (e.g., `anchor="center"`).
 - **justify**: Text alignment for multiple lines (e.g., `justify="center"`).
 - **wraplength**: Wrap text within a specified number of pixels (e.g., `wraplength=100`).
+<img width="148" alt="image" src="https://github.com/yashvisharma1204/Bootcamp/assets/137611141/8162c926-7d3a-4723-b5f7-a7e3ebd968f8">
 
