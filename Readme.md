@@ -31,11 +31,33 @@ Today's work:
 - **[Python Set](10-06-2024/Sets.md)**: 🛠️ Exploring the capabilities of Python sets for efficient data handling and mathematical operations on unique collections.
 - **[Python Tuple](10-06-2024/Tuples.md)**: 🎯 Discovering the potential of Python tuples for efficient data handling and operations on immutable collections.
   
+Certainly! Here are the tasks listed in Markdown format with added links:
+
 ### 11-06-2024:
-Today's work:
-- **[Tkinter Introduction](11-06-2024/Introduction.md)**:🌟 Getting started with Tkinter, the standard GUI library for Python, to create interactive applications.
-  - ***[Tkinter Introduction](11-06-2024/basics.py):***
-- **[Buttons](11-06-2024/button.md)**:🔘 Learn how to add buttons in Tkinter applications, customize their appearance, and attach functions for interactive behavior.
-  - ***[Tkinter Introduction](11-06-2024/button.py):***
+Today's Work done:
+
+- **[Introduction.md](11-06-2024/Introduction.md)**: Tkinter Introduction: 🌟 Getting started with Tkinter, the standard GUI library for Python, to create interactive applications.
+  - ***[EXAMPLE](11-06-2024/basics.py)**: Example of importing and using the Tkinter library.*
+
+- **[button.md](11-06-2024/button.md)**: Buttons: 🔘 Learn how to add buttons in Tkinter applications, customize their appearance, and attach functions for interactive behavior.
+  - ***[EXAMPLE](11-06-2024/button.py)**: Example of creating and using buttons in a Tkinter application.*
+
+- **[entry.md](11-06-2024/entry.md)**: Entry Widgets: ✍️ Exploring the use of entry widgets in Tkinter for user input and data submission.
+  - ***[EXAMPLE](11-06-2024/entry.py)**: Example of implementing entry widgets for user input.*
+
+- **[frames.md](11-06-2024/frames.md)**: Frames in Tkinter: 🖼️ Understanding the concept of frames to organize and structure GUI elements in Tkinter applications.
+  - ***[EXAMPLE](11-06-2024/frames.py)**: Example of using frames to organize GUI elements.*
+
+- **[geometry_place.md](11-06-2024/geometry_place.md)**: Place Geometry Manager: 📍 Learn how to use the place geometry manager in Tkinter to precisely position widgets within a window.
+  - ***[EXAMPLE](11-06-2024/place.py)**: Example of using the place geometry manager to position widgets.*
+
+- **[geometry_pack.md](11-06-2024/geometry_pack.md)**: Pack Geometry Manager: 📦 Understanding the pack geometry manager in Tkinter for arranging widgets in a block format.
+  - ***[EXAMPLE](11-06-2024/pack.py)**: Example of using the pack geometry manager to arrange widgets.*
+
+- **[geometry_grid.md](11-06-2024/geometry_grid.md)**: Grid Geometry Manager: 📐 Exploring the grid geometry manager in Tkinter to organize widgets in rows and columns.
+  - ***[EXAMPLE](11-06-2024/grid.py)**: Example of using the grid geometry manager to organize widgets.*
+
+- **[label.md](11-06-2024/label.md)**: Labels in Tkinter: 🏷️ Understanding the use of labels to display text and images in Tkinter applications.
+  - ***[EXAMPLE](11-06-2024/label.py)**: Example of using labels to display text and images.*
 --- 
 Crafted with passion for the tech-savvy and knowledge-hungry learners! 🧠📚 
