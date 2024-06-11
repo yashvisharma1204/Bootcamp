@@ -31,3 +31,4 @@ w = Frame(master, option=value, ...)
 - **highlightthickness**: Thickness of the focus highlight border.
 - **relief**: Defines the style of the frame's border. Possible values include `FLAT`, `SUNKEN`, `RAISED`, `GROOVE`, and `RIDGE`.
 
+<img width="223" alt="image" src="https://github.com/yashvisharma1204/Bootcamp/assets/137611141/3572c996-968b-4721-9523-f52fb05d8f00">
