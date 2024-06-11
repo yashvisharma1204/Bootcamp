@@ -31,7 +31,7 @@ Today's work:
 - **[Python Set](10-06-2024/Sets.md)**: 🛠️ Exploring the capabilities of Python sets for efficient data handling and mathematical operations on unique collections.
 - **[Python Tuple](10-06-2024/Tuples.md)**: 🎯 Discovering the potential of Python tuples for efficient data handling and operations on immutable collections.
   
-### 11=06-2024:
+### 11-06-2024:
 Today's work:
 - **[Tkinter Introduction](11-06-2024/Introduction.md)**:
   - ***[Tkinter Introduction](11-06-2024/basics.py):***
