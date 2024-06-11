@@ -33,9 +33,9 @@ Today's work:
   
 ### 11-06-2024:
 Today's work:
-- **[Tkinter Introduction](11-06-2024/Introduction.md)**:
+- **[Tkinter Introduction](11-06-2024/Introduction.md)**:🌟 Getting started with Tkinter, the standard GUI library for Python, to create interactive applications.
   - ***[Tkinter Introduction](11-06-2024/basics.py):***
-- **[Buttons](11-06-2024/button.md)**:
+- **[Buttons](11-06-2024/button.md)**:🔘 Learn how to add buttons in Tkinter applications, customize their appearance, and attach functions for interactive behavior.
   - ***[Tkinter Introduction](11-06-2024/button.py):***
 --- 
 Crafted with passion for the tech-savvy and knowledge-hungry learners! 🧠📚 
