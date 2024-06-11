@@ -92,4 +92,6 @@ Scrolls the entry horizontally to make the specified text index visible.
 
 ## xview_scroll(number, what):
 Scrolls the entry horizontally by the specified number of `what` units.
+<br>
+<img width="257" alt="image" src="https://github.com/yashvisharma1204/Bootcamp/assets/137611141/add25297-3e60-44b1-b8ca-d91e3b1c404a">
 
