@@ -23,3 +23,5 @@ You can use one of the following functions with dialogue boxes:
 - **askokcancel()**: Asks for confirmation with OK/Cancel options.
 - **askyesno()**: Asks for confirmation with Yes/No options.
 - **askretrycancel()**: Asks for confirmation with Retry/Cancel options.
+![Screenshot 2024-06-12 142436](https://github.com/yashvisharma1204/Bootcamp/assets/137611141/95163723-1f75-42a1-82fc-a7abbf05fad5)
+![Screenshot 2024-06-12 142424](https://github.com/yashvisharma1204/Bootcamp/assets/137611141/af97aadd-49a6-41af-a802-c907b72bb979)
