@@ -10,20 +10,6 @@ def connect_to_mysql():
             password='',  # replace with your MySQL password
             database='mynewdatabase'  # replace with your database name
         )
-        
-        if connection.is_connected():
-            print("Connected to MySQL database")
-            
-            # Create a cursor object
-            cursor = connection.cursor()
-            # Execute a query
-            cursor.execute("SELECT * FROM student_info")
-            # Fetch and print all rows from the last executed statement
-            rows = cursor.fetchall()
-            
-            print("Total number of rows in users table: ", cursor.rowcount)
-            for row in rows:
-                print(row)
     
     except Error as e:
         print(f"Error: {e}")
