@@ -8,56 +8,75 @@
 
 ### 06-06-2024:
 Today's focus:
-- **[Python Basics](06-06-2024/Python_basics.md)**: 🐍 Master the foundational elements of Python programming.
-- **[Python Functions](06-06-2024/Python_functions.md)**: 🔄 Understand the power and usage of functions in Python.
-- **[Questions](06-06-2024/Questions.py)**: 💡 Solve intriguing Python problems to solidify your understanding.
+- **[Python Basics](06-06-2024/Python_basics.md)** 🐍
+- **[Python Functions](06-06-2024/Python_functions.md)** 🔄 
+- **[Questions](06-06-2024/Questions.py)** 💡
 
 ### 07-07-2024:
 Today's agenda:
-- **[Python OOPs and Inheritance](07-06-2024/python_oop.md)**: 🏗️ Dive into Object-Oriented Programming concepts and inheritance.
-- **[Git Commands](07-07-2024/git_github.md)**: 🛠️ Learn essential Git commands to efficiently manage your codebase on GitHub.
-
+- **[Python OOPs and Inheritance](07-06-2024/python_oop.md)** 🏗️ 
+- **[Git Commands](07-07-2024/git_github.md)** 🛠️ 
 ### 08-06-2024:
 What's on the plate for today:
-- **[Python Exceptions Handling](08-06-2024/exception_handling.md)**: 🚨 Explore how to gracefully handle exceptions in Python code.
-- **[Questions](08-06-2024/questions.py)**: 💪 Engage in problem-solving sessions to tackle real-world scenarios.
+- **[Python Exceptions Handling](08-06-2024/exception_handling.md)** 🚨 
+- *[Questions](08-06-2024/questions.py)* 💪
 
 ### 10-06-2024:
 Today's work:
-- **[Python List](10-06-2024/List.md)**: 📝 Exploring the versatility of Python lists and understanding their importance in data manipulation and storage.
-  - ***[Questions](10-06-2024/list_questions.py)***: 📋 Practice exercises focused on Python lists to reinforce learning and enhance problem-solving skills.
-- **[Python Dictionaries](10-06-2024/Dictionary.md)**: 📊 Delving into the concept of Python dictionaries and how they facilitate efficient data organization and retrieval.
-  - ***[Questions](10-06-2024/dict_questions.py)***: 📚 Solving challenges related to Python dictionaries to deepen understanding and sharpen coding abilities.
-- **[Python Set](10-06-2024/Sets.md)**: 🛠️ Exploring the capabilities of Python sets for efficient data handling and mathematical operations on unique collections.
-- **[Python Tuple](10-06-2024/Tuples.md)**: 🎯 Discovering the potential of Python tuples for efficient data handling and operations on immutable collections.
+- **[Python List](10-06-2024/List.md)** 📝 
+  - *[Questions](10-06-2024/list_questions.py)*📋 
+- **[Python Dictionaries](10-06-2024/Dictionary.md)** 📊 
+  - *[Questions](10-06-2024/dict_questions.py)* 📚 
+- **[Python Set](10-06-2024/Sets.md)** 🛠️
+- **[Python Tuple](10-06-2024/Tuples.md)** 🎯
   
-Certainly! Here are the tasks listed in Markdown format with added links:
-
 ### 11-06-2024:
 Today's Work done:
 
-- **[Introduction.md](11-06-2024/Introduction.md)**: Tkinter Introduction: 🌟 Getting started with Tkinter, the standard GUI library for Python, to create interactive applications.
-  - ***[EXAMPLE](11-06-2024/basics.py)**: Example of importing and using the Tkinter library.*
+- **[Introduction.md](11-06-2024/Introduction.md)** 🌟 
+  - *[EXAMPLE](11-06-2024/basics.py)* 📋
 
-- **[button.md](11-06-2024/button.md)**: Buttons: 🔘 Learn how to add buttons in Tkinter applications, customize their appearance, and attach functions for interactive behavior.
-  - ***[EXAMPLE](11-06-2024/button.py)**: Example of creating and using buttons in a Tkinter application.*
+- **[button.md](11-06-2024/button.md)** 🔘
+  - *[EXAMPLE](11-06-2024/button.py)* 📋
 
-- **[entry.md](11-06-2024/entry.md)**: Entry Widgets: ✍️ Exploring the use of entry widgets in Tkinter for user input and data submission.
-  - ***[EXAMPLE](11-06-2024/entry.py)**: Example of implementing entry widgets for user input.*
+- **[entry.md](11-06-2024/entry.md)** ✍️ 
+  - *[EXAMPLE](11-06-2024/entry.py)* 📋
 
-- **[frames.md](11-06-2024/frames.md)**: Frames in Tkinter: 🖼️ Understanding the concept of frames to organize and structure GUI elements in Tkinter applications.
-  - ***[EXAMPLE](11-06-2024/frames.py)**: Example of using frames to organize GUI elements.*
+- **[frames.md](11-06-2024/frames.md)** 🖼️ 
+  - *[EXAMPLE](11-06-2024/frames.py)* 📋
 
-- **[geometry_place.md](11-06-2024/geometry_place.md)**: Place Geometry Manager: 📍 Learn how to use the place geometry manager in Tkinter to precisely position widgets within a window.
-  - ***[EXAMPLE](11-06-2024/place.py)**: Example of using the place geometry manager to position widgets.*
+- **[geometry_place.md](11-06-2024/geometry_place.md)** 📍
+  - *[EXAMPLE](11-06-2024/place.py)* 📋
 
-- **[geometry_pack.md](11-06-2024/geometry_pack.md)**: Pack Geometry Manager: 📦 Understanding the pack geometry manager in Tkinter for arranging widgets in a block format.
-  - ***[EXAMPLE](11-06-2024/pack.py)**: Example of using the pack geometry manager to arrange widgets.*
+- **[geometry_pack.md](11-06-2024/geometry_pack.md)** 📦 
+  - *[EXAMPLE](11-06-2024/pack.py)* 📋
 
-- **[geometry_grid.md](11-06-2024/geometry_grid.md)**: Grid Geometry Manager: 📐 Exploring the grid geometry manager in Tkinter to organize widgets in rows and columns.
-  - ***[EXAMPLE](11-06-2024/grid.py)**: Example of using the grid geometry manager to organize widgets.*
+- **[geometry_grid.md](11-06-2024/geometry_grid.md)** 📐 
+  - *[EXAMPLE](11-06-2024/grid.py)*
 
-- **[label.md](11-06-2024/label.md)**: Labels in Tkinter: 🏷️ Understanding the use of labels to display text and images in Tkinter applications.
-  - ***[EXAMPLE](11-06-2024/label.py)**: Example of using labels to display text and images.*
+- **[label.md](11-06-2024/label.md)** 🏷️ 
+  - *[EXAMPLE](11-06-2024/label.py)* 📋
+
+### 12-06-2024:
+- **[Canvas](12-06-2024/canvas.md)** 🎨
+  - *[Example](12-06-2024/canvas.py)* 🖌️
+- **[List Box](12-06-2024/listbox.md)** 📋
+  - *[Example](12-06-2024/listbox.py)* 📋
+- **[Message Box](12-06-2024/messagebox.md)** 💬
+  - *[Example](12-06-2024/messagebox.py)* 💬
+- **[Mini Project](12-06-2024/miniproject1.py)** 🔄
+
+
+### 13-06-2024:
+- **[Introduction](13-06-2024/introduction.md)** 📚
+  - *[Connect.sql](13-06-2024/Connect.sql)* 📊
+  - *[connect.py](13-06-2024/connect.py)* 🐍
+
+### 14-06-2024:
+- **[Command languages in SQL](14-06-2024/Ddl_dml_dcl.md)** 📄
+- **[Data Types](14-06-2024/data_types.md)** 📄
+- **[Operators](14-06-2024/operators.md)** 📄
+  - *[sample.sql](14-06-2024/sample.sql)* 📄
+
 --- 
 Crafted with passion for the tech-savvy and knowledge-hungry learners! 🧠📚 
