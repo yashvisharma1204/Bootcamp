@@ -1,4 +1,4 @@
-# SQL JOINS Detailed Notes
+# SQL JOINS 
 
 ## 1. INNER JOIN
 

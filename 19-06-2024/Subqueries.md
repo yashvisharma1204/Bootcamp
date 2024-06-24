@@ -1,4 +1,4 @@
-# SQL Subqueries Detailed Notes
+# SQL Subqueries 
 
 ## 1. Introduction to Subqueries
 
