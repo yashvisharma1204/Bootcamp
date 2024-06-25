@@ -3,6 +3,14 @@
 ![Data Science](https://builtin.com/sites/www.builtin.com/files/styles/og/public/2024-03/Data%20Science%201600x800.jpg)
 *"The only way to do great work is to love what you do." - Steve Jobs*
 ---
+## 👩🏻‍💻Topics to be covered:
+1. Python
+2. Tkinter
+3. MySQL
+4. MySQL and Python Connectivity
+5. Numpy
+6. Pandas
+7. Matplotlib
 
 ## 💻 Daily Practice:
 
