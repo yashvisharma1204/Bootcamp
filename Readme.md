@@ -78,5 +78,23 @@ Today's Work done:
 - **[Operators](14-06-2024/operators.md)** 📄
   - *[sample.sql](14-06-2024/sample.sql)* 📄
 
+### 18-06-2024:
+- **[DQL](18-06-2024/DQL.md)** 📄
+- **[In-Built functions in SQL](18-06-2024/in_built.md)** 📄
+
+### 19-06-2024:
+- **[Joins](19-06-2024/Joins.md)** 🔗
+- **[Subqueries](19-06-2024/Subqueries.md)** 📄
+
+### 21-06-2024:
+- **[Cursors](21-06-2024/cursor.md)** 🖱️
+- **[Functions in SQL](21-04-2024/functions.md)** ⚙️
+- **[Procedures in SQL](21-04-2024/procedures.md)** ⏳
+
+### 24-06-2024:
+- **[TCL commands](24-06-2024/TCL.md)** 🧾
+
+### 25-06-2024:
+- **[Numpy](25-06-2024/Numpy_bootcamp.ipynb)** 🀠
 --- 
 Crafted with passion for the tech-savvy and knowledge-hungry learners! 🧠📚 
