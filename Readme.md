@@ -104,5 +104,11 @@ Today's Work done:
 
 ### 25-06-2024:
 - **[Numpy](25-06-2024/Numpy_bootcamp.ipynb)** 🀠
+
+### 26-06-2024:
+- **[Pandas](26-06-2024/Pandas.ipynb)** 🐼
+
+### 28-06-2024:
+- **[Matplotlib](28-06-2024/matplotlib.ipynb)** 📈
 --- 
 Crafted with passion for the tech-savvy and knowledge-hungry learners! 🧠📚 
