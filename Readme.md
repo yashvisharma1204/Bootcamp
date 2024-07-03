@@ -115,6 +115,6 @@ Today's Work done:
 - **[Seaborn](02-07-2024/Seaborn.ipynb)** 📊
 
 ### 03-07-2024:
-- **[Handling Null Values](02-07-2024/Handling null values.ipynb)** 🚫
+- **[Handling Null Values](02-07-2024/Handling_null_values.ipynb)** 🚫
 --- 
 Crafted with passion for the tech-savvy and knowledge-hungry learners! 🧠📚 
