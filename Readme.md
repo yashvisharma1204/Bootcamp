@@ -110,5 +110,11 @@ Today's Work done:
 
 ### 28-06-2024:
 - **[Matplotlib](28-06-2024/matplotlib.ipynb)** 📈
+
+### 02-07-2024:
+- **[Seaborn](02-07-2024/Seaborn.ipynb)** 📊
+
+### 03-07-2024:
+- **[Handling Null Values](02-07-2024/Handling-null-values.ipynb)** 🚫
 --- 
 Crafted with passion for the tech-savvy and knowledge-hungry learners! 🧠📚 
