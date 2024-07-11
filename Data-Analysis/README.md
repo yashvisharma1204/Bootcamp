@@ -9,10 +9,10 @@ This project provides an in-depth analysis of healthcare in India, examining pat
 - **Demographic Analysis:**
   - [Census data](census_2011.csv)
   - [General hospital information](hospitals.csv)
-  - Government hospitals data
+  - [Government hospitals data](government_hospitals.csv)
 
 - **Sector-Specific Analysis:**
-  - Ministry of Defence hospitals data
+  - [Ministry of Defence hospitals data](Hospitals-and-Beds-maintained-by-Ministry-of-Defence.csv)
   - Indian Railways hospitals data
 
 ## Analysis Details
