@@ -7,8 +7,8 @@ This project provides an in-depth analysis of healthcare in India, examining pat
 ## Datasets Used
 
 - **Demographic Analysis:**
-  - Census data
-  - General hospital information
+  - [Census data](census_2011.csv)
+  - [General hospital information](hospitals.csv)
   - Government hospitals data
 
 - **Sector-Specific Analysis:**
