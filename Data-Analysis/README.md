@@ -49,7 +49,7 @@ This project provides an in-depth analysis of healthcare in India, examining pat
 
 ## Contributing
 
-Contributions are welcome! If you're interested in enhancing healthcare analytics or contributing to data visualization in this project, please follow the steps outlined in our [Contribution Guidelines](CONTRIBUTING.md). 🚀
+Contributions are welcome! If you're interested in enhancing healthcare analytics or contributing to data visualization in this project. 🚀
 
 ## License
 
