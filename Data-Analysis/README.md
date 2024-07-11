@@ -12,7 +12,7 @@ This project provides an in-depth analysis of healthcare in India, examining pat
   - [Government hospitals data](government_hospitals.csv)
 
 - **Sector-Specific Analysis:**
-  - [Ministry of Defence hospitals data](Hospitals-and-Beds-maintained-by-Ministry-of-Defence.csv)
+  - [Ministry of Defence hospitals data](Hospitals_and_Beds_maintained_by_Ministry_of_Defence.csv)
   - Indian Railways hospitals data
 
 ## Analysis Details
