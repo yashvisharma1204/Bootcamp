@@ -1,5 +1,5 @@
 # Healthcare in India Analysis
-
+![](https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?q=80&w=1880&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 ## Overview
 
 This project provides an in-depth analysis of healthcare in India, examining patient demographics and hospital facilities within the defense and railway sectors. Through detailed data examination and visualization, it aims to uncover trends crucial for improving healthcare infrastructure and services across the country. 🏥📊
