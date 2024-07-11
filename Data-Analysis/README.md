@@ -4,6 +4,8 @@
 
 This project provides an in-depth analysis of healthcare in India, examining patient demographics and hospital facilities within the defense and railway sectors. Through detailed data examination and visualization, it aims to uncover trends crucial for improving healthcare infrastructure and services across the country. 🏥📊
 
+Check file: [Healthcare Analysis](Healthcare.ipynb)
+
 ## Datasets Used
 
 - **Demographic Analysis:**
@@ -12,8 +14,8 @@ This project provides an in-depth analysis of healthcare in India, examining pat
   - [Government hospitals data](government_hospitals.csv)
 
 - **Sector-Specific Analysis:**
-  - [Ministry of Defence hospitals data](Data-Analysis/Hospitals and Beds maintained by Ministry of Defence.csv)
-  - [Indian Railways hospitals data](Data-Analysis/Hospitals and Beds maintained by Railway.csv)
+  - Ministry of Defence hospitals data 
+  - Indian Railways hospitals data
 
 ## Analysis Details
 
